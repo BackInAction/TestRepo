@@ -10,6 +10,7 @@ namespace BogusConsoleApplication
     {
         static void Main(string[] args)
         {
+            // hello
             Console.WriteLine("save me");
         }
     }
